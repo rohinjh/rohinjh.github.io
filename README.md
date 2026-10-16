@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rohin Solan
 
-## Sr. Technical Product Owner | AI Strategist | Performance Engineering Leader
+## Senior Technical Product Owner | AI Strategist | Performance Engineering Leader
 
 Passionate about building innovative, scalable, and high-performing digital products that create measurable business value. I specialize in Product Ownership, Artificial Intelligence, Performance Engineering, Digital Transformation, and Enterprise Technology Solutions.
 
@@ -49,20 +49,30 @@ Helping organizations modernize processes, platforms, and technology strategies.
 
 ## Technologies & Tools
 
-- Azure
-- AWS
-- OpenAI & Generative AI
-- GitHub
-- Jira
-- Confluence
-- Kubernetes
-- SQL
-- Splunk
-- Dynatrace
-- AppDynamics
-- SQL Code Tuning
-- Database Engineering
-- DEX Adminstration
+**Cloud & Platforms**
+
+Azure
+AWS
+Kubernetes
+**AI & Product**
+
+OpenAI
+Generative AI
+GitHub
+**Performance Engineering**
+
+Dynatrace
+Splunk
+AppDynamics
+**Product Management**
+
+Jira
+Confluence
+**Database & Optimization**
+
+SQL
+SQL Performance Tuning
+Database Engineering ``
 
 ---
 
