@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm [Rohin Solan]
+# 👋 Hi, I'm Rohin Solan
 
 ## Sr. Technical Product Owner | AI Strategist | Performance Engineering Leader
 
@@ -81,4 +81,11 @@ Helping organizations modernize processes, platforms, and technology strategies.
 ---
 
 ⭐ Feel free to explore my projects, connect professionally, and collaborate on technology, AI, and product innovation initiatives.
+
+
+
+**Keywords**
+Technical Product Owner, Artificial Intelligence, AI, Performance Engineering, Product Management, Agile, Cloud Technologies, Digital Transformation, Enterprise Architecture, Product Strategy, Technology Leadership.
+
+
 
